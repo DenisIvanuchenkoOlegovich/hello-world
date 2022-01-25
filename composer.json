@@ -1,0 +1,16 @@
+{
+  "name": "vendor_name/hello-world",
+  "type": "project",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Ivanuchenko Denis",
+      "email": "ivanyuchenko.d.o@effective-group.ru",
+      "role": "developer"
+    }
+  ],
+  "require": {
+  }
+}

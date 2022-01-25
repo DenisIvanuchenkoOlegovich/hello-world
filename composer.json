@@ -12,6 +12,6 @@
     }
   ],
   "require": {
-    "denis-ivanuchenko/hello-world": "*"
+    "denis-ivanuchenko/hello-world-composer": "*"
   }
 }

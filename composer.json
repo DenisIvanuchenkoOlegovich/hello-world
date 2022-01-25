@@ -2,7 +2,7 @@
   "name": "denis-ivanuchenko/hello-world1",
   "type": "project",
   "description": "description",
-  "minimum-stability": "stable",
+  "minimum-stability": "dev",
   "license": "proprietary",
   "authors": [
     {
@@ -12,5 +12,6 @@
     }
   ],
   "require": {
+    "denis-ivanuchenko/hello-world": "*"
   }
 }
